@@ -3,7 +3,11 @@ AABB m12f12sqdml,qsdmlqs,dmqslk,d
 m1f1
 
 rebaseXXeeeXYYYPull
+<<<<<<< Updated upstream
 
 
 autre blabla 
+
+TO BE STASHED
+
 hehe
